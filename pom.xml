@@ -15,10 +15,6 @@
 	<name>BestChoiceCars</name>
 	<description>Best Choice Cars Project</description>
 
-	<properties>
-		<java.version>15.0.1</java.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
