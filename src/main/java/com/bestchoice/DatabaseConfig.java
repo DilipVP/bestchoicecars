@@ -14,7 +14,7 @@ public class DatabaseConfig {
 
   @Value("${spring.datasource.url}")
   private String dbUrl;
-
+  
   @Bean
   public DataSource dataSource() {
       HikariConfig config = new HikariConfig();
